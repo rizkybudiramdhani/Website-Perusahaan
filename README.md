@@ -1,2 +1,2 @@
 # Website-Perusahaan
-Website informasi Perusahaan
+Website sistem informasi Perusahaan
